@@ -1,5 +1,5 @@
 ## Setup
-install npm globally 
+install npm globally: 
 `npm install -g jest`
 
 ## Test
